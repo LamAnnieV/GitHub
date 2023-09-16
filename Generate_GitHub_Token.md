@@ -13,4 +13,4 @@ By:  Annie V Lam - Kura Labs
 7.  Enter a note
 8.  Select: Repo and Admin:Repor_hook
 9.  Generate Token
-10.  Save a copy of the Token
+10.  Save a copy of the Token (Will be used in Jenkins)
