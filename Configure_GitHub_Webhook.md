@@ -10,7 +10,7 @@ By:  Annie V Lam - Kura Labs
 4.  Click "Webhooks"
 5.  Click "Add webhook"
 6.  Click the "Payload URL" field
-7.  Enter the URL:8080
+7.  Enter the (http://yourIP:8080/github-webhook/)
 8.  Click "Add webhook"
 9.  Click the URL
 10.  Click "Recent Deliveries"
